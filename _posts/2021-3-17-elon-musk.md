@@ -1,3 +1,11 @@
+---
+layout: post
+comments: true
+title: 关于Elon Musk
+excerpt: 硅谷钢铁侠读后感
+categories: Reading
+date: 2021-03-17 10:00:00
+---
 最近总是和朋友谈起特斯拉的话题，还有最近SN10的新闻，对这类话题绕不开的space x和tesla的ceo埃隆马斯克产生了兴趣，于是开始读《硅谷钢铁侠》，有点好奇到底是什么样的人在Shaping our Future。
 
 > 马斯克的这些公司尽可能从零开始，尝试重新思考航天航空、汽车和太阳能产业那些约定俗称的做法。
